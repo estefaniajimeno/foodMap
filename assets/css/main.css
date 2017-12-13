@@ -1,0 +1,73 @@
+.header {
+	background-color: #696969 ;
+	height: 100vh;
+	
+}
+
+
+
+
+.title1{
+	margin-top: 8em;
+	color:#ef6c00;
+	margin-left: 2.5em;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.section1{
+	background-color: #383838;
+	height: 100vh;
+}
+
+.title2{
+	width: 10em;
+	color:#FF9933;
+	font-family: 'Open Sans';
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 0.8em;
+	border-bottom: 0.1em solid white;
+	
+}
+.map{
+	padding-left: 3.5em;
+	padding-top: 2em;
+}
+.title3{
+	font-family: 'Open Sans';
+	color:#FF9933;
+	padding-left:2em; 
+	padding-top: 1em;
+}
+.input-group{
+	padding-left: 3em;
+	padding-top: 1em;
+}
+#columnPhoto{
+	padding-left: 2.3em;
+}
+.imgfood{
+	width: 6em;
+	height:6em;
+	padding-top: 1em;
+	padding-right: 0.3em;
+}
+
+.photoFood1{
+	width: 12em;
+	height:6em;
+	padding-left: 2em;
+	padding-right: 0.1em;
+	padding-top: 0.5em;
+
+	
+}
+.photoFood2{
+	width: 9em;
+	height:7em;
+	text-align: center;
+	padding-bottom: 1em;
+	padding-top: 0.5em;
+	
+}
