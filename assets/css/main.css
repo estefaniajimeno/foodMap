@@ -3,18 +3,12 @@
 	height: 100vh;
 	
 }
-
-
-
-
 .title1{
 	margin-top: 8em;
 	color:#ef6c00;
 	margin-left: 2.5em;
 	font-family: 'Open Sans', sans-serif;
 }
-
-
 .section1{
 	background-color: #383838;
 	height: 100vh;
@@ -27,9 +21,15 @@
 	text-align: center;
 	padding-top: 1em;
 	padding-bottom: 0.8em;
-	border-bottom: 0.1em solid white;
-	
+	padding-left: 1em;
 }
+hr{
+	color: white;
+	border:1px solid;
+	margin-right: 1em;
+	margin-left:3em;
+}
+
 .map{
 	padding-left: 3.5em;
 	padding-top: 2em;
@@ -60,8 +60,6 @@
 	padding-left: 2em;
 	padding-right: 0.1em;
 	padding-top: 0.5em;
-
-	
 }
 .photoFood2{
 	width: 9em;
@@ -69,5 +67,18 @@
 	text-align: center;
 	padding-bottom: 1em;
 	padding-top: 0.5em;
+}
+.btn-secondary {
+	background: white;
+	width: 16em;
+}
+.fa-search{
+	color: #FF9933;
+	position: relative;
+	left: 7em;
+}
+
+.dropdown-toggle{
+	color: transparent;
 	
 }
